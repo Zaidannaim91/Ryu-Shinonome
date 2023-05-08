@@ -1,0 +1,25 @@
+{
+   "title":"[Ryu Shinonome] Ecstasy Approach",
+   "description":"",
+   "author":"Ryu Shinonome",
+   "artist":"Ryu Shinonome",
+   "cover":"https://i.imgur.com/jVROcuH.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/RE24HSG"
+         },
+         "last_updated":1624606143,
+         "title":"Ecstasy Approach",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/qYjUuKP"
+         },
+         "last_updated":1624606143,
+         "title":"Ecstasy Date",
+         "volume":"2"
+      }
+   }
+}
