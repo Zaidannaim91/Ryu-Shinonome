@@ -1,0 +1,25 @@
+{
+   "title":"[Ryu Shinonome] Angel's Unrequited Love",
+   "description":"",
+   "author":"Ryu Shinonome",
+   "artist":"Ryu Shinonome",
+   "cover":"https://i.imgur.com/GvTstvJ.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/ppSMtmd"
+         },
+         "last_updated":1624606143,
+         "title":"Angel's Unrequited Love",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/QWhcVqd"
+         },
+         "last_updated":1624606143,
+         "title":"Angel's Unrequited Love Part 2",
+         "volume":"2"
+      }
+   }
+}
