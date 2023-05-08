@@ -1,0 +1,41 @@
+{
+   "title":"[Ryu Shinonome] Sweet Nectar of a Poisonous Flower",
+   "description":"",
+   "author":"Ryu Shinonome",
+   "artist":"Ryu Shinonome",
+   "cover":"https://i.imgur.com/0NrJALD.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/2vB5SZz"
+         },
+         "last_updated":1624606143,
+         "title":"Sweet Nectar of a Poisonous Flower",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/ScuhqKi"
+         },
+         "last_updated":1624606143,
+         "title":"Sweet Nectar of a Poisonous Flower ~Red Room~",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/aBCvfps"
+         },
+         "last_updated":1624606143,
+         "title":"Sweet Nectar of a Poisonous Flower ~Red Thorn~",
+         "volume":"3"
+      },
+      "4":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/cqtIVoG"
+         },
+         "last_updated":1624606143,
+         "title":"Sweet Nectar of a Poisonous Flower ~Red Night~",
+         "volume":"4"
+      }
+   }
+}
